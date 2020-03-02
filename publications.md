@@ -9,6 +9,7 @@ Endangered Plant Site Probability Analysis for UAS Flight Planning
 Planning Optimal UAS Flight Areas for Rare Plant Monitoring in the Blue Ridge Mountains of North Carolina
 Reckling, W. and Mitasova, H., 2018, December. Planning Optimal UAS Flight Areas for Rare Plant Monitoring in the Blue Ridge Mountains of North Carolina. In AGU Fall Meeting Abstracts. 
 [Abstract Link](https://ui.adsabs.harvard.edu/abs/2018AGUFM.B33F2735R/abstract)
+.
 [Poster](https://wjreckli.github.io/ncsu/docs/AGU_2018_v3.jpg).
 
 ## Publications
