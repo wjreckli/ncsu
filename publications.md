@@ -3,7 +3,12 @@
 ### FOSS4G NA 2018 Presentation
 Endangered Plant Site Probability Analysis for UAS Flight Planning
   
-[Presentation](https://wjreckli.github.io/ncsu/docs/FOSS4GNA2018.pdf).
+[Presentation](https://wjreckli.github.io/ncsu/docs/FOSS4GNA2018.pdf)
+
+###MEAS Lightning Talk 2019
+GeoInformation Science and Environmental Modeling Lab
+
+[Presentation](https://wjreckli.github.io/ncsu/docs/FMEAS Talk 2019.pdf)
 
 ## Posters
 ### AGU 2018 Fall Meeting
@@ -12,7 +17,7 @@ Reckling, W. and Mitasova, H., 2018, December. Planning Optimal UAS Flight Areas
   
 [Abstract link](https://ui.adsabs.harvard.edu/abs/2018AGUFM.B33F2735R/abstract)
   
-[Poster link](https://wjreckli.github.io/ncsu/images/AGU_2018_v3.jpg).
+[Poster link](https://wjreckli.github.io/ncsu/images/AGU_2018_v3.jpg)
 
 ## Publications
 White, C.T., Petrasova, A., Reckling, W. & Mitasova, H. 2020, "AUTOMATED LAND COVER CHANGE DETECTION THROUGH RAPID UAS UPDATES OF DIGITAL SURFACE MODELS", The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences, vol. XLII-3/W11, pp. 155-159.
