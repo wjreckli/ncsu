@@ -10,7 +10,7 @@ Planning Optimal UAS Flight Areas for Rare Plant Monitoring in the Blue Ridge Mo
 Reckling, W. and Mitasova, H., 2018, December. Planning Optimal UAS Flight Areas for Rare Plant Monitoring in the Blue Ridge Mountains of North Carolina. In AGU Fall Meeting Abstracts. 
 [Abstract link](https://ui.adsabs.harvard.edu/abs/2018AGUFM.B33F2735R/abstract)
   
-[Poster link](https://wjreckli.github.io/ncsu/docs/AGU_2018_v3.jpg).
+[Poster link](https://wjreckli.github.io/ncsu/images/AGU_2018_v3.jpg).
 
 ## Publications
 White, C.T., Petrasova, A., Reckling, W. & Mitasova, H. 2020, "AUTOMATED LAND COVER CHANGE DETECTION THROUGH RAPID UAS UPDATES OF DIGITAL SURFACE MODELS", The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences, vol. XLII-3/W11, pp. 155-159.
