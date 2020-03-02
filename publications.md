@@ -5,10 +5,10 @@ Endangered Plant Site Probability Analysis for UAS Flight Planning
   
 [Presentation](https://wjreckli.github.io/ncsu/docs/FOSS4GNA2018.pdf)
 
-###MEAS Lightning Talk 2019
+### MEAS Lightning Talk 2019
 GeoInformation Science and Environmental Modeling Lab
 
-[Presentation](https://wjreckli.github.io/ncsu/docs/FMEAS Talk 2019.pdf)
+[Presentation](https://wjreckli.github.io/ncsu/docs/MEASTalk2019.pdf)
 
 ## Posters
 ### AGU 2018 Fall Meeting
